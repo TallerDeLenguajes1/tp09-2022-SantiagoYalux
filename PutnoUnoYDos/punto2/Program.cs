@@ -60,7 +60,7 @@ class Producto
         NOMBRE = Enum.GetName(typeof(Nombres), rnd.Next(1, Enum.GetNames(typeof(Nombres)).Length));
         PRECIO = rnd.Next(1000, 5000);
         FECHAVENCIMIENTO = DateTime.Now.ToShortDateString();
-        tamanio = "hola";
+       
     }
 }
 
