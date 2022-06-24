@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutnoUnoYDos", "PutnoUnoYDos\PutnoUnoYDos.csproj", "{30098E59-BDF1-41D0-8934-017EE5B53DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PutnoUnoYDos", "PutnoUnoYDos\PutnoUnoYDos.csproj", "{30098E59-BDF1-41D0-8934-017EE5B53DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punto2", "punto2\punto2.csproj", "{6BF0602D-8922-4AD6-8BE9-5B66C09C5840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{30098E59-BDF1-41D0-8934-017EE5B53DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30098E59-BDF1-41D0-8934-017EE5B53DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30098E59-BDF1-41D0-8934-017EE5B53DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF0602D-8922-4AD6-8BE9-5B66C09C5840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF0602D-8922-4AD6-8BE9-5B66C09C5840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF0602D-8922-4AD6-8BE9-5B66C09C5840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF0602D-8922-4AD6-8BE9-5B66C09C5840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
