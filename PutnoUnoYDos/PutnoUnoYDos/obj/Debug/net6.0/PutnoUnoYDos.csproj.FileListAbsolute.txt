@@ -1,0 +1,17 @@
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\PutnoUnoYDos.exe
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\PutnoUnoYDos.deps.json
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\PutnoUnoYDos.runtimeconfig.json
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\PutnoUnoYDos.dll
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\PutnoUnoYDos.pdb
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.csproj.AssemblyReference.cache
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.AssemblyInfoInputs.cache
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.AssemblyInfo.cs
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.csproj.CoreCompileInputs.cache
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.csproj.CopyComplete
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.dll
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\refint\PutnoUnoYDos.dll
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.pdb
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\PutnoUnoYDos.genruntimeconfig.cache
+C:\TallerLenguajesC#\tp09-2022-SantiagoYalux\PutnoUnoYDos\PutnoUnoYDos\obj\Debug\net6.0\ref\PutnoUnoYDos.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpghKnvwKA4/4hZ61Er46ch8qu3f+oTSoRDSJDSK2P2ytwm1X86HufRs6/TOTRtJtDhbMhvMnnR6RyBVkZ7NVw==",
+  "success": true,
+  "projectFilePath": "C:\\TallerLenguajesC#\\tp09-2022-SantiagoYalux\\PutnoUnoYDos\\PutnoUnoYDos\\PutnoUnoYDos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanyalux\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
